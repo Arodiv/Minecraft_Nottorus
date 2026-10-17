@@ -1,2 +1,2 @@
-# Minecraft_Nottorus
-Minecraft clone (with physics) using Unity with Nottorus Visual Scripting Plugin
+# Minecraft Nottorus: 
+clone de Minecraft (com física) criado na Unity utilizando o plugin de programação visual Nottorus
